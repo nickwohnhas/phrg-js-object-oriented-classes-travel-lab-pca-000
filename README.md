@@ -29,3 +29,4 @@ So to travel from 15th Street and 1st Avenue to 20th Street and Lexington Avenue
 + `estimatedTime` —  The method returns the number of minutes estimated for the trip.  The estimated time depends on the distance in blocks and whether the trip is occurring during peak hours or off peak hours. During off peak hours, a driver travels three blocks in a minute, while during peak hours a driver travels an estimated two blocks in a minute.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-classes-travel-lab' title='Classes Travel in JS Lab '>Classes Travel in JS Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Classes in JS Classes Travel</p>

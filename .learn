@@ -9,3 +9,5 @@ languages:
   - javascript
 resources:
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/js-object-oriented-classes-travel-lab.git
